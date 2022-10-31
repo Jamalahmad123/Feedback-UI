@@ -42,6 +42,7 @@ const FeedbackForm = () => {
       }
 
       setText("");
+      setBtnDisabled(true);
     }
   }
 
